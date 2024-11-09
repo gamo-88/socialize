@@ -1,0 +1,2 @@
+-commenter les composants qui prennent les classe tailwind pour indiquer a quoi sert le string passer en parametre comme dans sidebar item
+-reduire les tailles des elements en mobile
